@@ -8,6 +8,7 @@
     "resolveJsonModule": true,
     "moduleDetection": "force",
     "isolatedModules": true,
+    
 
     /* Strictness */
     "strict": true,
@@ -26,7 +27,7 @@
     /* Path Aliases */
     "baseUrl": ".",
     "paths": {
-      "matirosman/*": ["./src/*"]
+      "matirosman/*": ["./src/*"]  
     }
   },
   "include": [
